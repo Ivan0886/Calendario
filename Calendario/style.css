@@ -1,0 +1,63 @@
+body {
+		font-family: 'Sansita Swashed', cursive;
+}
+.diasEscritos {
+		border-color: black !important;
+}
+.dias {
+		display: inline-block;
+		vertical-align: top;
+		margin: 0.5%;
+		width: 12%;
+		border-width: 2px;
+		border-style: solid;
+		border-color: white;
+		border-radius: 5px;
+}
+.JANUARY {
+		background-color: blue;
+}
+.FEBRUARY {
+		background-color: green;
+		color: white;
+}
+.MARCH {
+		background-color: yellow;
+}
+.APRIL {
+		background-color: pink;
+}
+.MAY {
+		background-color: brown;
+		color: white;
+}
+.JUNE {
+		background-color: red;
+}
+.JULY {
+		background-color: orange;
+		padding: 4%;
+}
+.AUGUST {
+		background-color: darksalmon;
+}
+.SEPTEMBER {
+		background-color: magenta;
+}
+.OCTOBER {
+		background-color: aqua;
+}
+.NOVEMBER {
+		background-color: olive;
+}
+.DECEMBER {
+		background-color: maroon;
+		color: white;
+}
+.hoy {
+		background-color: gray;
+		color: white;
+}
+.mes {
+		padding: 4%;
+		font-family: 'Josefin Sans', sans-serif;}
